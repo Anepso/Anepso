@@ -1,203 +1,132 @@
-<!--
-  GitHub Profile README — Anepso
-  Theme: Linux Terminal / Hacker Aesthetic
--->
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:74C69D,100:40916C" width="100%" alt="" />
 
 <div align="center">
+# Anepso
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,50:052e16,100:020617&text=ANEPSO&fontColor=00FF88&fontSize=70&fontAlignY=48&desc=Building%20Useful%20Things%20with%20Code&descSize=15&descAlignY=70&stroke=00FF88&strokeWidth=1" width="100%" alt="Anepso profile banner" />
+### Software Developer · Web Developer · AI & Automation Enthusiast
 
-```text
-┌─────────────────────────────────────────────────────┐
-│  anepso@github:~$ whoami                             │
-│  Developer | Linux Enthusiast | AI & Automation     │
-│                                                     │
-│  anepso@github:~$ echo "Turning ideas into code"    │
-│  Turning ideas into code                            │
-└─────────────────────────────────────────────────────┘
-```
+Building useful applications, crafting web experiences, and exploring intelligent automation.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anepso-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Anepso)
-[![OS](https://img.shields.io/badge/OS-Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-00FF88?style=for-the-badge&logo=probot&logoColor=black)](https://github.com/Anepso)
+<p>
+  <a href="https://github.com/Anepso"><img src="https://img.shields.io/badge/GitHub-Anepso-171A19?style=flat-square&logo=github&logoColor=B7E4C7" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Environment-Linux-171A19?style=flat-square&logo=linux&logoColor=B7E4C7" alt="Linux" />
+  <img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-171A19?style=flat-square&logo=probot&logoColor=B7E4C7" alt="Software and AI" />
+</p>
 
 </div>
 
----
+## `$ whoami`
 
-## `01` // ABOUT ME
+I'm a developer interested in building practical software, developing modern web applications, and exploring how AI and automation can make everyday workflows more efficient.
 
-```bash
-$ ./introduce.sh
-```
+I enjoy working across different layers of development, from user interfaces and backend logic to desktop applications and system-level tools.
 
-Hi! I'm **Anepso**, a developer who enjoys building practical software, exploring technology, and automating repetitive tasks.
+- **Software Development** — building functional applications with maintainable architecture.
+- **Web Development** — creating responsive interfaces and reliable backend services.
+- **Linux & Open Source** — exploring developer tools, operating systems, and open technologies.
+- **AI & Automation** — experimenting with intelligent features and automated workflows.
+- **UI/UX** — keeping interfaces clean, intuitive, and focused on real user needs.
 
-I believe technology should do more than look impressive — it should solve real problems.
+## `$ ls ~/projects`
 
-```yaml
-username: Anepso
-location: Indonesia
-interests:
-  - Desktop Application Development
-  - Web Development
-  - AI Integration
-  - Automation & Tooling
-  - Linux & Open Source
-mindset: "Build. Test. Improve. Repeat."
-```
+### 01. School Bell
 
-- 🔭 Building applications that solve real-world problems.
-- 🧠 Exploring AI-assisted development and automation.
-- 🛠️ Interested in reliable software, clean interfaces, and practical tools.
-- 🐧 Exploring the Linux ecosystem and developer workflows.
-- ⚡ Always learning, experimenting, and shipping improvements.
+**Automatic School Bell Desktop Application**
 
----
+A desktop application designed to automate school bell schedules and audio playback, with schedule management, persistent settings, Windows integration, and AI-assisted features.
 
-## `02` // FEATURED PROJECTS
+- **Focus:** Desktop development, audio scheduling, automation, AI integration
+- **Stack:** Electron · React · TypeScript · Node.js
 
-```bash
-$ ls -la ~/projects/
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,react,ts,nodejs&theme=dark" alt="Electron, React, TypeScript, Node.js" />
+</p>
 
-### 🔔 School Bell — Automatic School Bell
+[Explore Repository →](https://github.com/Anepso/Automatic-school-bell)
 
-> Automating school schedules, one bell at a time.
+### 02. SchoolCMS React
 
-A desktop application designed to automate school bell schedules and audio playback.
+**Frontend · Academic Management System**
 
-**Tech stack**
+The React frontend for SchoolCMS, focused on the user interface, application navigation, and communication with backend services.
 
-![Electron](https://img.shields.io/badge/Electron-0A0A0A?style=flat-square&logo=electron&logoColor=00FF88)
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=00FF88)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=00FF88)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=00FF88)
+- **Focus:** Frontend architecture, component-based UI, API integration
+- **Stack:** React · TypeScript · Vite
 
-- ⏱️ Automated schedule-based bell playback
-- 🔊 Audio management and schedule configuration
-- 🤖 AI-assisted features
-- 🖥️ Native desktop experience powered by Electron
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" alt="React, TypeScript, Vite" />
+</p>
 
-**[→ Explore Repository](https://github.com/Anepso/Automatic-school-bell)**
+[Explore Repository →](https://github.com/agilfebripradana123/schoolcms-react)
 
-### 🌐 Pasastrian — Educational Website
+### 03. SchoolCMS Laravel
 
-> Technology with purpose, designed for education.
+**Backend · REST API**
 
-An institutional website project focused on presenting educational information through a welcoming, modern, and accessible experience.
+The Laravel backend counterpart to SchoolCMS React, providing the server-side foundation for application data, business logic, and API communication.
 
-**Tech stack**
+- **Focus:** Backend development, REST API, database integration
+- **Stack:** Laravel · PHP · MySQL
 
-![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=00FF88)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-0A0A0A?style=flat-square&logo=codeigniter&logoColor=00FF88)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=00FF88)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=00FF88)
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" alt="Laravel, PHP, MySQL" />
+</p>
 
-- 🎨 Thoughtful UI/UX design
-- 📚 Structured institutional and educational content
-- 🏛️ Built around an existing CodeIgniter application
+[Explore Repository →](https://github.com/agilfebripradana123/schoolcms-laravel)
 
-*More projects and experiments will appear here as they evolve.*
+### 04. Website Pasastrian
 
----
+**Pasastrian Buddha Kusalamitra Gunungkidul**
 
-## `03` // TECH STACK
+An institutional educational website designed to present the institution's profile, educational foundations, daily activities, news, gallery, and registration information.
 
-```bash
-$ neofetch --developer
-```
+- **Focus:** Institutional web development, content structure, UI/UX
+- **Stack:** CodeIgniter 3 · PHP · HTML · CSS
 
-<div align="center">
-
-| Category | Technologies |
-|:--|:--|
-| **Languages** | JavaScript · TypeScript · PHP · Python |
-| **Frontend** | React · HTML5 · CSS3 |
-| **Desktop** | Electron |
-| **Backend** | Node.js · Express · CodeIgniter |
-| **Tools** | Git · GitHub · VS Code |
-| **Environment** | Linux · Windows |
-| **Exploring** | AI Integration · Automation |
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,js,ts,react,nodejs,electron,php,python&theme=dark&perline=7" alt="Development tools and technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" alt="PHP, HTML, CSS" />
 </p>
 
 ---
+<div align="center">
+## `$ tech-stack`
 
-## `04` // AI & AUTOMATION
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,js,ts,react,vite,nodejs,electron,php,laravel,mysql,python&theme=dark&perline=7" alt="Technologies and development tools" />
+</p>
+</div>
+
+## `$ ./explore-ai.sh`
 
 ```python
-class Developer:
-    def __init__(self):
-        self.interests = [
-            "AI integration",
-            "Workflow automation",
-            "Practical software",
-            "Continuous learning",
-        ]
+interests = [
+    "web_development",
+    "software_engineering",
+    "desktop_applications",
+    "artificial_intelligence",
+    "workflow_automation",
+    "linux_and_open_source",
+]
 
-    def build(self, idea):
-        return f"Transforming {idea} into something useful."
-
-me = Developer()
+for interest in interests:
+    explore(interest)
+    build_something_useful(interest)
 ```
 
-I'm interested in using AI and automation to make software development and everyday workflows more efficient.
+I'm especially interested in connecting software development with AI and automation to create tools that solve practical problems.
 
-- 🤖 Integrating AI capabilities into useful applications.
-- ⚙️ Automating repetitive tasks and workflows.
-- 🧩 Connecting tools, services, and software components.
-- 🔍 Experimenting with better development workflows.
+## `$ git stats`
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anepso&show_icons=true&hide_border=true&bg_color=171A19&title_color=B7E4C7&text_color=E5EDE7&icon_color=74C69D&ring_color=74C69D" alt="Anepso GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anepso&layout=compact&hide_border=true&bg_color=171A19&title_color=B7E4C7&text_color=E5EDE7" alt="Most used programming languages" />
+</p>
 
-## `05` // GITHUB METRICS
+## `$ cat philosophy.txt`
 
-```bash
-$ git log --oneline --all
-$ git status
-```
+> Build useful software. Keep the architecture clear. Let technology solve real problems.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anepso&show_icons=true&hide_border=true&bg_color=020617&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anepso&layout=compact&hide_border=true&bg_color=020617&title_color=00FF88&text_color=C9D1D9" height="165" alt="Most used programming languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anepso&hide_border=true&background=020617&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
-</div>
-
----
-
-## `06` // DEVELOPER PHILOSOPHY
-
-```text
-[+] Think clearly.
-[+] Build intentionally.
-[+] Automate wisely.
-[+] Debug patiently.
-[+] Keep learning.
-[+] Never stop improving.
-```
-
-> "The best tool is the one that solves the problem."
-
----
-
-<div align="center">
-
-```bash
-anepso@github:~$ echo "Thanks for stopping by!"
-```
-
-**`[ SYSTEM ONLINE ]`** · Made with curiosity and code.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF88" width="100%" alt="" />
-
-<sub>Keep building. Keep exploring. Keep shipping. &lt; / &gt;</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:40916C,100:74C69D" width="100%" alt="" />
+  <sub>Designed with curiosity, built with purpose.</sub>
+</p>
