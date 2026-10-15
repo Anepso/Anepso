@@ -2,7 +2,6 @@
 
 # Anepso
 <div align="center">
-# Anepso
 
 ### Software Developer · Web Developer · AI & Automation Enthusiast
 
