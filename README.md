@@ -88,9 +88,9 @@ An institutional educational website designed to present the institution's profi
 </p>
 
 ---
-<div align="center">
-## `$ tech-stack`
 
+## `$ tech-stack`
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,js,ts,react,vite,nodejs,electron,php,laravel,mysql,python&theme=dark&perline=7" alt="Technologies and development tools" />
 </p>
