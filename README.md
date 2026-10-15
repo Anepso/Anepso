@@ -1,7 +1,7 @@
  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:74C69D,100:40916C" width="100%" alt="" />
 
-# Anepso
 <div align="center">
+<b>Anepso</b>
 
 ### Software Developer · Web Developer · AI & Automation Enthusiast
 
