@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Software Developer · Web Developer · AI & Automation Enthusiast
+### Web Developer · Software Developer · AI & Automation Enthusiast
 
 Building useful applications, crafting web experiences, and exploring intelligent automation.
 
