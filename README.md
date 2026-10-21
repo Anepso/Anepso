@@ -1,133 +1,66 @@
- <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:74C69D,100:40916C" width="100%" alt="" />
-
-## Anepso
-
-<div align="center">
-
-### Web Developer · Software Developer · AI & Automation Enthusiast
-
-Building useful applications, crafting web experiences, and exploring intelligent automation.
-
-<p>
-  <a href="https://github.com/Anepso"><img src="https://img.shields.io/badge/GitHub-Anepso-171A19?style=flat-square&logo=github&logoColor=B7E4C7" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Environment-Linux-171A19?style=flat-square&logo=linux&logoColor=B7E4C7" alt="Linux" />
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-171A19?style=flat-square&logo=probot&logoColor=B7E4C7" alt="Software and AI" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso hero visual" />
 </p>
 
-</div>
+<p align="center"><b>Arya Nanda Eka Putra</b> · Frontend or full-stack engineer<br/><sub>Stay hungry for knowledge, stay updated for life.</sub></p>
 
-## `$ whoami`
+<p align="center"><a href="https://github.com/anepso">GitHub</a></p>
 
-I'm a developer interested in building practical software, developing modern web applications, and exploring how AI and automation can make everyday workflows more efficient.
-
-I enjoy working across different layers of development, from user interfaces and backend logic to desktop applications and system-level tools.
-
-- **Software Development** — building functional applications with maintainable architecture.
-- **Web Development** — creating responsive interfaces and reliable backend services.
-- **Linux & Open Source** — exploring developer tools, operating systems, and open technologies.
-- **AI & Automation** — experimenting with intelligent features and automated workflows.
-- **UI/UX** — keeping interfaces clean, intuitive, and focused on real user needs.
-
-## `$ ls ~/projects`
-
-### 01. School Bell
-
-**Automatic School Bell Desktop Application**
-
-A desktop application designed to automate school bell schedules and audio playback, with schedule management, persistent settings, Windows integration, and AI-assisted features.
-
-- **Focus:** Desktop development, audio scheduling, automation, AI integration
-- **Stack:** Electron · React · TypeScript · Node.js
-
-<p>
-  <img src="https://skillicons.dev/icons?i=electron,react,ts,nodejs&theme=dark" alt="Electron, React, TypeScript, Node.js" />
-</p>
-
-[Explore Repository →](https://github.com/Anepso/Automatic-school-bell)
-
-### 02. SchoolCMS React
-
-**Frontend · Academic Management System**
-
-The React frontend for SchoolCMS, focused on the user interface, application navigation, and communication with backend services.
-
-- **Focus:** Frontend architecture, component-based UI, API integration
-- **Stack:** React · TypeScript · Vite
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" alt="React, TypeScript, Vite" />
-</p>
-
-[Explore Repository →](https://github.com/agilfebripradana123/schoolcms-react)
-
-### 03. SchoolCMS Laravel
-
-**Backend · REST API**
-
-The Laravel backend counterpart to SchoolCMS React, providing the server-side foundation for application data, business logic, and API communication.
-
-- **Focus:** Backend development, REST API, database integration
-- **Stack:** Laravel · PHP · MySQL
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" alt="Laravel, PHP, MySQL" />
-</p>
-
-[Explore Repository →](https://github.com/agilfebripradana123/schoolcms-laravel)
-
-### 04. Website Pasastrian
-
-**Pasastrian Buddha Kusalamitra Gunungkidul**
-
-An institutional educational website designed to present the institution's profile, educational foundations, daily activities, news, gallery, and registration information.
-
-- **Focus:** Institutional web development, content structure, UI/UX
-- **Stack:** CodeIgniter 3 · PHP · HTML · CSS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" alt="PHP, HTML, CSS" />
-</p>
-
----
-
-## `$ tech-stack`
-<div align="center">
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,js,ts,react,vite,nodejs,electron,php,laravel,mysql,python&theme=dark&perline=7" alt="Technologies and development tools" />
-</p>
-</div>
-
-## `$ ./explore-ai.sh`
-
-```python
-interests = [
-    "web_development",
-    "software_engineering",
-    "desktop_applications",
-    "artificial_intelligence",
-    "workflow_automation",
-    "linux_and_open_source",
-]
-
-for interest in interests:
-    explore(interest)
-    build_something_useful(interest)
-```
-
-I'm especially interested in connecting software development with AI and automation to create tools that solve practical problems.
-
-## `$ git stats`
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anepso&show_icons=true&hide_border=true&bg_color=171A19&title_color=B7E4C7&text_color=E5EDE7&icon_color=74C69D&ring_color=74C69D" alt="Anepso GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anepso&layout=compact&hide_border=true&bg_color=171A19&title_color=B7E4C7&text_color=E5EDE7" alt="Most used programming languages" />
+  <img src="https://www.gitskins.com/api/section/projects?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso projects visual" />
 </p>
 
-## `$ cat philosophy.txt`
+- [Automatic-school-bell](https://github.com/Anepso/Automatic-school-bell) · ★ 1 — School Bell adalah aplikasi desktop untuk menjalankan bel sekolah secara otomatis berdasarkan jadwal
+- [wallpaper-cms-django](https://github.com/Anepso/wallpaper-cms-django) · ★ 1 — Sistem Manajemen Konten (CMS) Galeri Wallpaper berbasis Django dan Tailwind CSS. Dilengkapi dengan f
+- [Modernportfoliowebsitewireframe](https://github.com/Anepso/Modernportfoliowebsitewireframe) · ★ 1 — A modern, sleek, and highly interactive personal portfolio template designed for Fullstack Developer
+- [Anepso](https://github.com/Anepso/Anepso) · ★ 0
 
-> Build useful software. Keep the architecture clear. Let technology solve real problems.
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:40916C,100:74C69D" width="100%" alt="" />
-  <sub>Designed with curiosity, built with purpose.</sub>
+  <img src="https://www.gitskins.com/api/section/stack?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso stack visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>4</b> public repositories, <b>3</b> stars, <b>339</b> contributions in the last year, a longest streak of <b>7</b> days and <b>3</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=anepso&theme=neon" alt="anepso contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Arya Nanda Eka Putra · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
