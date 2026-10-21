@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso hero visual" />
 </p>
 
-<p align="center"><b>Arya Nanda Eka Putra</b> · Frontend or full-stack engineer<br/><sub>Stay hungry for knowledge, stay updated for life.</sub></p>
+<p align="center"><b>Arya Nanda Eka Putra</b> · Fullstack Developer · AI & Automation Enthusiast<br/><sub>Stay hungry for knowledge, stay updated for life.</sub></p>
 
 <p align="center"><a href="https://github.com/anepso">GitHub</a></p>
 
@@ -63,4 +63,4 @@
 
 </details>
 
-<p align="center"><sub>Arya Nanda Eka Putra · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Arya Nanda Eka Putra</sub></p>
