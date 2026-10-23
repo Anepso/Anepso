@@ -22,12 +22,33 @@
 </details>
 
 <details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+  <summary><b>🧰 Stack</b></summary>
+  <br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="anepso stack visual" />
-</p>
+  <div align="center">
+    <img src="https://www.gitskins.com/api/section/stack?username=anepso&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164139751%3Fu%3D0ca422908759b8591a27119a993d8d69667837b9%26v%3D4" alt="Anepso's technology stack visualization" />
+  </div>
+
+  <br/>
+
+  <h4 align="center">Languages</h4>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&theme=dark&perline=10" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python" />
+  </div>
+
+  <br/>
+
+  <h4 align="center">Frameworks & Backend</h4>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,electron,laravel&theme=dark&perline=10" alt="React, Vite, Node.js, Electron, Laravel" />
+  </div>
+
+  <br/>
+
+  <h4 align="center">Databases, Tools & DevOps</h4>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github,bash,linux&theme=dark&perline=10" alt="MySQL, VSCode, Git, GitHub, Bash, Linux" />
+  </div>
 
 </details>
 
